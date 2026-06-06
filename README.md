@@ -1,3 +1,5 @@
+这是我们的第一版程序，建议看后面的成熟版：RL-IMTCMO-BS
+
 P-EPC: Pre-trained Evolutionary Parameter Controller
 
 Introduction / 简介
